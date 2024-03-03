@@ -15,10 +15,6 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
@@ -49,7 +45,7 @@ Toda a parte do HTML e CSS já estava previamente pronta, sendo ensinado somente
 
 ## Tecnolgias Utilizadas
 
-1. HTNL
+1. HTML
 2. CSS
 3. JS
 
