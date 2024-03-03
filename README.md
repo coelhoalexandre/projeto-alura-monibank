@@ -23,36 +23,43 @@
 
 ## Sobre o Projeto
 
+Esse projeto instruido por [**Mônica Hillman**](https://github.com/MonicaHillman), bacharela em Tecnologias Digitais e instrutora da Alura, tem como principal objetivo ensinar a como fazer validações de formulários.
 
+Toda a parte do HTML e CSS já estava previamente pronta, sendo ensinado somente a parte de validações por meio de JavaScript. 
 
 ## Objetivos do Projeto
 
-
+- Saber atributos de validação no HTML;
+- Construir validações para CPF e maioridade nas datas;
+- Aprender mensagens de erro costumizadas;
+- Integrar a webcam do usuario no navegador;
+- Capturar fotos via webcam;
+- Salvar e editar dados salvos no navegador.
 
 ## Funcionalidades do Projeto
 
-
+- A página iniciar do projeto já estava feita. Para ir na parte ensinada pelo curso, deve pressionar o botão "Abrir conta"
+- Cada campo possui validações. Todos eles precisam ser preenchidos e alguns tem outras validações
+  - **Nome**: Precisa ser preenchido e o minimo de caracteres é 3;
+  - **E-mail**: Precisa ser preenchido e ser um e-mail válido;
+  - **RG**: Precisa ser preenchido;
+  - **CPF**: Precisa ser preenchido e o CPF tem que ser válido;
+  - **Data de Nascimento**: Precisa ser preenchido e tem que ter no minimo 18 anos.
+- Na página seguinte é necessario clicar no rosto e permitir que o site acesse a camera do computador. Se não houver camera não acontecerá nada, mas caso o contrario a imagem dela aparecerá e só bastará tirar a foto.
 
 ## Tecnolgias Utilizadas
 
-
+1. HTNL
+2. CSS
+3. JS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/monibank-1920px.jpg
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Toda a parte de validações do formulario aprende por meio das instruções de [**Mônica Hillman**](https://github.com/MonicaHillman), entranto a página inicial não faz parte do curso, ela já estava previamente pronta.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
